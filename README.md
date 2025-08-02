@@ -60,12 +60,3 @@ You can add new projects, improve code, or help with notes.
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-## ❤️ Connect with Me
-
-Made with dedication by **Ashish Gupta** ✨  
-📫 Contact: [GitHub]([https://github.com/your-username](https://github.com/ashishgupta251)) | [LinkedIn](in/ashishgupta251) | [Twitter](@agashish2517)
-
-
