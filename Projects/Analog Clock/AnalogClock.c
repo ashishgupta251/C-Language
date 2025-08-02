@@ -7,13 +7,13 @@ void drawClock(int hour, int minute, int second) {
     printf("\033[H\033[J");
 
     // Draw the clock face
-    printf("       12\n");
-    printf("   11      1\n");
-    printf("10          2\n");
-    printf("9            3\n");
-    printf("   8      4\n");
-    printf("       6\n");
+    printf("      12\n");
+    printf("  11      1\n");
+    printf(" 10        2\n");
+    printf(" 9          3\n");
+    printf("  8        4\n");
     printf("   7      5\n");
+    printf("      6\n");
     
     // Display the time
     printf("Current Time: %02d:%02d:%02d\n", hour, minute, second);
@@ -38,4 +38,5 @@ int main() {
     }
 
     return 0;
+
 }
