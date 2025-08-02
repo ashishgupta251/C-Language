@@ -8,13 +8,13 @@ Whether you're a beginner 👶 or brushing up your skills 💪, this repo offers
 ## 📂 Repository Structure
 
 C-Programming/
+├── Notes/ # Notes will be added here soon
 ├── Projects/ # All C language project files
 │ ├── Analog Clock
 │ ├── Calender
 │ └── Phone Book
 │ └── Scientific Calculator
 │ └── Unit Convertor
-├── Notes/ # Notes will be added here soon
 │ └── (Coming soon...)
 ├── README.md
 └── .gitignore
