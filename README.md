@@ -1,4 +1,4 @@
-# 💻 C Programming Projects & Notes 📘
+# 💻 C Programming Notes & Projects 📘
 
 Welcome to the ultimate repository for learning and practicing **C Programming**!  
 Whether you're a beginner 👶 or brushing up your skills 💪, this repo offers clean code examples and practical projects to help you master the language.
